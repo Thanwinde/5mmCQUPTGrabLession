@@ -16,8 +16,7 @@
 
 ---
 
-已打包exe：通过网盘分享的文件：5mmGrabLessons.zip链接: https://pan.baidu.com/s/1nfwZFCcI4P0kw20sev-7pw?pwd=5mm9 提取码: 5mm9
-
+已打包exe：通过网盘分享的文件：5mmGrabLessons.zip 链接: https://pan.baidu.com/s/1tOSMEecnqxZfcukmBDfpmg?pwd=5mm9 提取码: 5mm9
 （包含环境，比较大）
 
 采用多线程抢课，每一个课程对应一个线程，用户需要提前配置抢课设置**"aim.json"**放在和exe（如果你用的是我打包成exe的版本）同一级目录下

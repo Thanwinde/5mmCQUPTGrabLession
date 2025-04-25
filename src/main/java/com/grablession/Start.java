@@ -97,7 +97,7 @@ public class Start {
             System.out.println(want.getJxb() + " " + want.getKcmc());
         }
 
-
+        Thread.sleep(1000L * 60 * 10);
     }
 }
 
