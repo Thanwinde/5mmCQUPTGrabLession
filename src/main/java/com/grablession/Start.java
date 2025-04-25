@@ -101,7 +101,7 @@ public class Start {
     }
 }
 
-class MyThread extends Thread{
+class MyThread extends Thread {
     Want want;
 
     public MyThread(Want want){
@@ -109,7 +109,9 @@ class MyThread extends Thread{
     }
 
     public void run() {
+
         int cnt = 1;
+
         while(true) {
 
             String msg = Start.grab.tryGrab(want, Start.PHPSESSID);
@@ -129,5 +131,6 @@ class MyThread extends Thread{
             }
             cnt++;
         }
+
     }
 }
